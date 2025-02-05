@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/q3NHPMxG/Add-a-subheading.jpg" height="400" alt="Crowd-Funding"/>
+  <img src="https://i.ibb.co.com/1G2S1PQT/Screenshot-3.png" height="400" width="800" alt="Crowd-Funding"/>
 </div>
 
 # 🎯 Crowd Funding - Client-Side
